@@ -1,2 +1,2 @@
 # LLM-token-tracker
-A FastAPI-based LLM Token Tracker that integrates Google Gemini API to monitor token usage, estimate API costs, store request history in MySQL, and visualize analytics through an interactive dashboard.
+A full-stack LLM Token Tracker built using FastAPI, Google Gemini API, and MySQL. This application allows users to interact with Gemini models while tracking token usage, estimating API costs, maintaining request history, and viewing usage analytics through a clean web interface.
